@@ -1,0 +1,95 @@
+
+.register{
+	width:500px;
+	height: 400px;
+	margin:0 auto;
+}
+
+.reg-login{
+	margin-top: 5px;
+}
+
+.sign{
+	width:500px;
+	height: 400px;
+	margin:0 auto;
+	margin-bottom: 0;
+}
+
+.title{
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 350%;
+	margin-bottom: 2%;}
+
+p{
+	font-family: 'Fjalla One', sans-serif;
+}
+
+.big-cog{
+	font-size: 30px;
+}
+
+.signed_in{
+	background-color: #5FAE57;
+}
+
+.signed_out{
+	background-color: #D3696C;
+}
+.meeting{
+	background-color: #FF9400;
+	color:white;
+}
+
+.cars{
+	background-color: #41CBBC;
+	color:white;
+}
+.logo{
+	font-size: 20px;
+}
+.fa{
+	color: gray;
+}
+.update{
+	position: relative;
+	top: -50%;
+}
+
+.touch-button{
+	font-size: 20px;
+	height: 100px;
+	width:100px;
+}
+
+
+.table{
+	display: none;
+}
+
+.car-text{
+	display: none;
+}
+
+h2{
+	display: none;
+}
+
+.button-container{
+	margin: 0 auto;
+}
+
+.btn{
+	margin:10px;
+	width:100px;
+}
+
+.meet-warn{
+	color:red;
+}
+
+.btn-default{
+	background-color: #A5A1A1;
+}
+
+
